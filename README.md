@@ -1,3 +1,9 @@
-### web-crawler
+# web-crawler
 
-A Basic Web Crawler attempted in node.js
+The Project demonstrates core web crawling functionalities: 
+- fetching
+- parsing
+- link extraction
+- iterative link following
+- crawl limit control
+- success-error ratio calculation.
