@@ -1,7 +1,6 @@
 # web-crawler
 
-A Basic Web-Crawler Attempted in Node.js (Libraries used axios and cheerio)
-The Project demonstrates core web crawling functionalities: 
+A Basic Web-Crawler Attempted in Node.js (Libraries used axios and cheerio). The Project demonstrates core web crawling functionalities: 
 - fetching
 - parsing
 - link extraction
